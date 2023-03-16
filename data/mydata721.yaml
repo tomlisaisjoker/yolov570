@@ -1,0 +1,9 @@
+
+
+train: D:/test/datasets/mydata721/images/train
+val: D:/test/datasets/mydata721/images/val
+
+nc: 6
+
+# Classes
+names: ['DaiSha','DuanSha','MianQiu','PoDong','TuoSha','WuZi']
